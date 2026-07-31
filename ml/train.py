@@ -20,7 +20,7 @@ MODELS_DIR = Path(__file__).resolve().parent.parent / "models"
 MODEL_PATH = MODELS_DIR / "iris_model.joblib"
 METADATA_PATH = MODELS_DIR / "metadata.json"
 
-MODEL_VERSION = "1.0.0"
+MODEL_VERSION = "1.0.1"
 
 
 def main() -> None:
