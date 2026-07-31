@@ -3,6 +3,8 @@
 A FastAPI service that serves predictions from a trained iris species
 classifier.
 
+**Live**: https://iris-classifier-api-p2da.onrender.com/docs
+
 ## Project Structure
 
 ```
